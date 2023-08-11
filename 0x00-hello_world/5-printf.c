@@ -1,4 +1,4 @@
-#include <stdio>
+#include <stdio.h>
 /**
  * main - A program that print using printf f instead of put
  * Return: 0 (Success)
